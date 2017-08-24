@@ -25,18 +25,3 @@ jump right into the `do` block in `Lib.hs` and you should be able to play with t
 and stay buildable.
 or, you should be able to try to flesh out the `cabal` project properly from the skeleton
 provided.  your axioms go in `test/Spec.hs`.
-
-## but i don't care permutations!
-* i care about real stuff - working code, deployed solutions, etc.
-well, first off that's a terrible attitude.  second, haskell's not a hobby language used
-only by the insane and the politically deviant:
-* i'll offer this link to something i minimally skimmed, by way of proof by abuse with documentation:
-[stack-hacked dockering](https://www.fpcomplete.com/blog/2015/08/stack-docker). the travis CI stuff
-is worth looking at.  my point is, haskell is more cloud-native than anything going today.
-* finally, just pull and build this bastard real quick.  look through the stack install bash script -
-also, enjoy how it JUST WORKS.
-
-## but i do care about permutations!
-* then, this gag section is for you!  haha!
-
-
